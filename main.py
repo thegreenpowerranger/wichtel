@@ -27,3 +27,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+    st.image('https://github.com/thegreenpowerranger/wichtel/blob/main/Unknown.jpg?raw=true')
+
