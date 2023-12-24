@@ -5,26 +5,23 @@ def main():
 
     st.markdown(
         """
-        In der sternenklaren Weihnachtsnacht,
-        strahlt deine Vorfreude vollbracht.
-        Ein Wesen wächst, wie Buddha im Geist,
-        der Bauch, ein Rätsel, wie's wohl heißt?
+        In sternenklarer Weihnachtsnacht,
+        wächst ein Bauch mit Bedacht.
+        Wie der Dalai Lama, so weise im Buch,
+        Wickeltisch und Weisheit, ein neuer Fluch!
         
-        Wie der Dalai Lama, so weise und mild,
-        vergräbst du dich in Büchern, als wär's dein Schild.
-        Mit Bauchumfang, der stetig wächst,
-        sind Weisheit und Windeln das, was dich jetzt begeist!
+        Buddha-Lehren für Mama, so klar,
+        im Bauch, das Wunder wird wahr.
+        Mit Bauch und Blick so weit und hell,
+        Weihnachten wird zur Windelquelle!
         
-        Die Lehren des Buddha, so tief und klar,
-        sind auch für Mamas ein heiliger Altar.
-        In dieser Zeit des werdenden Seins,
-        schenken Lachen und Liebe den Glanz, so fein.
-        
-        Mit Buddha-Bauch und weiser Sicht,
-        sei unsere Weihnacht ein heiteres Licht.
-        Für dich, die werdende Mutter, mein Herz, mein Zuhause,
-        lässt uns dieser Segen der Weisheit nicht pausieren, sondern lächeln - Pause!
+        Für dich, werdende Mama, ein Riesenspaß,
+        Voll Weisheit, Liebe und einer Extra-Klasse!
+        Weihnachtslicht in unserem Heim,
+        Lass uns lächeln, auch in Windel-Heim.
 
+        Schöne Weihnachten
+        Tenzin
         """
     )
 
